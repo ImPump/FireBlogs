@@ -1,5 +1,10 @@
 # FireBlogs - firebase
 
+##  Project introduction
+
+前端：Vue2 
+后端：firebase
+
 ##  Project preview
 
 ### 首页（未登录时）
